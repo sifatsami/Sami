@@ -60,9 +60,6 @@ Feel free to reach out to discuss **ideas** or ask data science-related question
     <a href="https://www.tensorflow.org" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
     </a>
-    <a href="https://matplotlib.org/" target="_blank"> 
-        <code><img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="35" height="35"/></code> 
-    </a>
     <a href="https://seaborn.pydata.org/" target="_blank"> 
         <code><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="35"/></code> 
     </a>
