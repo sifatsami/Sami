@@ -1,5 +1,3 @@
-<img align="center" width="100%" alt="" src="https://github.com/sifatislam/sifatislam/blob/master/header.gif" />
-
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Sami!](https://linkedin.com/in/sifat-sami) <img src="https://komarev.com/ghpvc/?username=sifatislam" height="20px">
 
 I am a **Data Science Enthusiast** 📊 currently pursuing my **MSc in Data Science** at **Syddansk Universitet (SDU)** 🎓, focusing on data-driven decision-making and innovative solutions. I'm passionate about extracting meaningful insights from data and creating impactful solutions to real-world problems ✨.
