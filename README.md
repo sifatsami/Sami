@@ -1,8 +1,8 @@
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Sami!](https://linkedin.com/in/sifat-sami) <img src="https://komarev.com/ghpvc/?username=sifatislam" height="20px">
 
-I am a **Data Science Enthusiast** 📊 currently pursuing my **MSc in Data Science** at **Syddansk Universitet (SDU)** 🎓, specializing in Economics and Business Administration. To me, data is like a treasure hunt—every dataset is a mystery waiting to be solved. I love using it to make decisions that actually matter and come up with creative solutions to real-world problems. Finding those 'aha!' moments and turning them into real impact is what really excites me!
+I am a Data Science Enthusiast currently pursuing my MSc in Data Science at Syddansk Universitet (SDU), specializing in Economics and Business Administration. To me, data is like a treasure hunt—every dataset is a mystery waiting to be solved. I love using it to make decisions that actually matter and come up with creative solutions to real-world problems. Finding those 'aha!' moments and turning them into real impact is what really excites me!
 
-Feel free to reach out to discuss **ideas** or ask data science-related questions 💬!
+Feel free to reach out to discuss ideas or ask data science-related questions 💬!
 
 <p>
 <a href="https://www.linkedin.com/in/sifat-sami/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
