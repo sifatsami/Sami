@@ -19,7 +19,6 @@ Feel free to reach out to discuss ideas or ask data science-related questions �
 - 👯 Open to collaborate on exciting data science projects
 - 📫 Reach me at: [Gmail](mailto:sifatsami@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe in the power of data to tell compelling stories that drive meaningful change!
 
 <br>
 
