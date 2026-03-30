@@ -30,15 +30,6 @@ Feel free to reach out to discuss ideas or ask data science-related questions ðŸ
     <a href="https://www.r-project.org/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="35" height="35"/></code> 
     </a>
-    <a href="https://www.javascript.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></code> 
-    </a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/></code> 
-    </a>
     <a href="https://www.mysql.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sql" width="35" height="35"/></code> 
     </a>
@@ -57,6 +48,15 @@ Feel free to reach out to discuss ideas or ask data science-related questions ðŸ
     </a>
     <a href="https://www.tensorflow.org" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
+    </a>
+    <a href="https://www.javascript.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></code> 
+    </a>
+    <a href="https://www.w3.org/Style/CSS/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/></code> 
     </a>
     <a href="https://matplotlib.org/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="35" height="35"/></code> 
