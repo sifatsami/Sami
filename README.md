@@ -22,7 +22,6 @@ Feel free to reach out to discuss ideas or ask data science-related questions ğŸ
 <br>
 
 ## ğŸ› ï¸ Languages and Tools I use:
-
 <p align="center"> 
     <!-- Languages -->
     <a href="https://www.python.org" target="_blank"> 
@@ -43,6 +42,9 @@ Feel free to reach out to discuss ideas or ask data science-related questions ğŸ
     <a href="https://www.mysql.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sql" width="35" height="35"/></code> 
     </a>
+    <a href="https://www.postgresql.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/></code> 
+    </a>
     <!-- Frameworks / Libraries -->
     <a href="https://pandas.pydata.org/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/></code> 
@@ -56,13 +58,22 @@ Feel free to reach out to discuss ideas or ask data science-related questions ğŸ
     <a href="https://www.tensorflow.org" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
     </a>
+    <a href="https://matplotlib.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="35" height="35"/></code> 
+    </a>
     <a href="https://seaborn.pydata.org/" target="_blank"> 
         <code><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="35"/></code> 
+    </a>
+    <a href="https://xgboost.readthedocs.io/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" alt="xgboost" width="35" height="35"/></code> 
     </a>
     <a href="https://powerbi.microsoft.com/" target="_blank"> 
         <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="35" height="35"/></code> 
     </a>
-    <!-- Tools -->
+    <!-- Tools & Cloud -->
+    <a href="https://azure.microsoft.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/></code> 
+    </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
     </a>
